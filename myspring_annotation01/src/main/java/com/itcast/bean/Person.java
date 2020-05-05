@@ -2,7 +2,9 @@ package com.itcast.bean;
 
 public class Person {
     private String name;
-    private Integer age;
+    private Integer age; 
+    private String address;
+    private String nickName;
 
     public String getName() {
         return name;
