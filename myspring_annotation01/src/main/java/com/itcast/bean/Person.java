@@ -5,6 +5,8 @@ public class Person {
     private Integer age;
     private String empName;
     private String interesting;
+    private String address;
+    private String nickName;
 
     public String getName() {
         return name;
