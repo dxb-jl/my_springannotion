@@ -3,6 +3,8 @@ package com.itcast.bean;
 public class Person {
     private String name;
     private Integer age;
+    private String empName;
+    private String interesting;
 
     public String getName() {
         return name;
@@ -26,6 +28,22 @@ public class Person {
     public Person(String name, Integer age) {
         this.name = name;
         this.age = age;
+    }
+
+    public String getEmpName() {
+        return empName;
+    }
+
+    public void setEmpName(String empName) {
+        this.empName = empName;
+    }
+
+    public String getInteresting() {
+        return interesting;
+    }
+
+    public void setInteresting(String interesting) {
+        this.interesting = interesting;
     }
 
     @Override
