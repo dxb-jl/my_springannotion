@@ -13,6 +13,8 @@ public class Car {
         System.out.println("car....constructor...cccc");
         System.out.println("car....constructor...lkkkk");
         System.out.println("car....constructor...eeee");
+        System.out.println("car....constructor...");
+        System.out.println("car....constructor...");
 
     }
 
