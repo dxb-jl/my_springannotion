@@ -9,6 +9,10 @@ public class Car {
         System.out.println("car....constructor...");
         System.out.println("car....constructor...aaaaa");
         System.out.println("car....constructor...bbbbbb");
+        System.out.println("car....constructor...ffff");
+        System.out.println("car....constructor...cccc");
+        System.out.println("car....constructor...lkkkk");
+        System.out.println("car....constructor...eeee");
 
     }
 
